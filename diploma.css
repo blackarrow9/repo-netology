@@ -82,7 +82,7 @@ h1, h2, h3 {
     margin-left: 18px;
     margin-right: 36px;
     text-align: left;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
   }  
   
 .title_right_header  {
@@ -145,7 +145,7 @@ h1, h2, h3 {
   .athlets__title {
     color: #e7e7e7;
     font-size: 50px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 24px;
     margin-left: 21px;
     margin-bottom: 300px;
@@ -170,7 +170,7 @@ h1, h2, h3 {
   .athlets__item_title {
     color: #c1c1c1;
     font-size: 23px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-left: 21px;
     margin-top: 0px;
     margin-bottom: 32px;
@@ -183,7 +183,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 14px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 0px 11px 0px 0px; 
     line-height: 20px;
     width: 16px;
@@ -196,14 +196,14 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 14px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 0px 11px 0px 0px; 
     line-height: 20px; 
     width: 16px;
 }
   
   .athlets__item_text {
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 15px;
     margin-top: 0px;  
     margin-bottom: 0px;
@@ -237,7 +237,7 @@ h1, h2, h3 {
   .players__title {
     color: #e7e7e7;
     font-size: 50px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 24px;
     margin-left: 21px;
     margin-bottom: 300px;
@@ -263,7 +263,7 @@ h1, h2, h3 {
   .players__item_title {
     color: #c1c1c1;
     font-size: 23px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-left: 21px;
     margin-top: 0px;
     margin-bottom: 32px;
@@ -276,7 +276,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 14px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 0px 11px 0px 0px; 
     line-height: 20px;
     width: 16px;
@@ -289,7 +289,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 14px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 0px 11px 0px 0px; 
     line-height: 20px;
     width: 16px;
@@ -297,7 +297,7 @@ h1, h2, h3 {
 }
   
   .players__item_text {
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 15px;
     margin-top: 0px;  
     margin-bottom: 0px;
@@ -368,7 +368,7 @@ h1, h2, h3 {
     color: white;
     display: block;
     font-size: 14px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-weight: bold;
     left: 45px;
     line-height: 20px;
@@ -383,7 +383,7 @@ h1, h2, h3 {
   .principles__item_info {
     position: relative;
     width: 100%;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
   }
   
   .principles__item_info_title {
@@ -436,7 +436,7 @@ h1, h2, h3 {
   
   .footer__download_info-title {
     color: #ffffff;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 32px;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -445,7 +445,7 @@ h1, h2, h3 {
   
   .footer__download_info-subtitle {
     color: #a496ca;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 14px;
     margin-bottom: 0px;
     margin-top: -5px;
@@ -506,7 +506,7 @@ h1, h2, h3 {
     margin-left: 85px;
     margin-right: 90px;
     text-align: left;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
   }  
   
   .title_right_header  {
@@ -564,7 +564,7 @@ h1, h2, h3 {
   .athlets__title {
     color: #e7e7e7;
     font-size: 80px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 86px;
     margin-bottom: 0px;
     margin-left: 50%;
@@ -587,7 +587,7 @@ h1, h2, h3 {
   .athlets__item_title {
     color: #c1c1c1;
     font-size: 36px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-left: calc(50%);
     margin-top: 0px;
     margin-bottom: 32px;
@@ -600,7 +600,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -613,14 +613,14 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
 }
   
   .athlets__item_text {
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 16px;
     margin-top: 0px;  
     margin-bottom: 0px;
@@ -655,7 +655,7 @@ h1, h2, h3 {
   .players__title {
     color: #e7e7e7;
     font-size: 80px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 116px;
     margin-left: 28px;
   }
@@ -679,7 +679,7 @@ h1, h2, h3 {
   .players__item_title {
     color: #c1c1c1;
     font-size: 32px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 0px;
     margin-bottom: 32px;
   }
@@ -691,7 +691,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 0px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -704,7 +704,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 0px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -712,7 +712,7 @@ h1, h2, h3 {
 }
   
   .players__item_text {
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 16px;
     margin-top: 0px;  
     margin-bottom: 0px;
@@ -782,7 +782,7 @@ h1, h2, h3 {
     color: white;
     display: block;
     font-size: 24px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-weight: bold;
     left: 77px;
     line-height: 38px;
@@ -797,7 +797,7 @@ h1, h2, h3 {
   .principles__item_info {
     position: relative;
     width: 100%;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
   }
   
   .principles__item_info_title {
@@ -850,7 +850,7 @@ h1, h2, h3 {
   
   .footer__download_info-title {
     color: #ffffff;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 80px;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -859,7 +859,7 @@ h1, h2, h3 {
   
   .footer__download_info-subtitle {
     color: #a496ca;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 30px;
     margin-bottom: 0px;
     margin-top: -5px;
@@ -914,7 +914,7 @@ h1, h2, h3 {
     margin-top: 270px;
     margin-left: 205px;
     text-align: left;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
   }  
   
   .title_right_header  {
@@ -976,7 +976,7 @@ h1, h2, h3 {
   .athlets__title {
     color: #e7e7e7;
     font-size: 80px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 116px;
     margin-left: 50%;
   }
@@ -997,7 +997,7 @@ h1, h2, h3 {
   .athlets__item_title {
     color: #c1c1c1;
     font-size: 36px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-left: calc(50%);
     margin-top: 0px;
     margin-bottom: 32px;
@@ -1010,7 +1010,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -1023,14 +1023,14 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
 }
   
   .athlets__item_text {
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 20px;
     margin-top: 0px;  
     margin-bottom: 0px;
@@ -1064,7 +1064,7 @@ h1, h2, h3 {
   .players__title {
     color: #e7e7e7;
     font-size: 80px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 116px;
     margin-left: 185px;
   }
@@ -1086,7 +1086,7 @@ h1, h2, h3 {
   .players__item_title {
     color: #c1c1c1;
     font-size: 36px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-right: calc(50%);
     margin-top: 0px;
     margin-bottom: 32px;
@@ -1099,7 +1099,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -1112,7 +1112,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -1120,7 +1120,7 @@ h1, h2, h3 {
 }
   
   .players__item_text {
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 20px;
     margin-top: 0px;  
     margin-bottom: 0px;
@@ -1181,7 +1181,7 @@ h1, h2, h3 {
     color: white;
     display: block;
     font-size: 24px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-weight: bold;
     left: calc(50% - 12px);
     line-height: 38px;
@@ -1210,7 +1210,7 @@ h1, h2, h3 {
   .principles__item_info {
     position: relative;
     width: 50%;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
   }
   
  
@@ -1263,7 +1263,7 @@ h1, h2, h3 {
   
   .footer__download_info-title {
     color: #ffffff;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 80px;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -1272,7 +1272,7 @@ h1, h2, h3 {
   
   .footer__download_info-subtitle {
     color: #a496ca;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 30px;
     margin-bottom: 0px;
     margin-top: -5px;
@@ -1327,7 +1327,7 @@ h1, h2, h3 {
     margin-left: 185px;
     margin-right: 190px;
     text-align: left;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
   }  
   
   .title_right_header  {
@@ -1387,7 +1387,7 @@ h1, h2, h3 {
   .athlets__title {
     color: #e7e7e7;
     font-size: 80px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 116px;
     margin-left: 50%;
   }
@@ -1409,7 +1409,7 @@ h1, h2, h3 {
   .athlets__item_title {
     color: #c1c1c1;
     font-size: 36px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-left: calc(50%);
     margin-top: 0px;
     margin-bottom: 32px;
@@ -1422,7 +1422,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -1435,14 +1435,14 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
 }
   
   .athlets__item_text {
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 20px;
     margin-top: 0px;  
     margin-bottom: 0px;
@@ -1476,7 +1476,7 @@ h1, h2, h3 {
   .players__title {
     color: #e7e7e7;
     font-size: 80px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-top: 116px;
     margin-left: 185px;
   }
@@ -1499,7 +1499,7 @@ h1, h2, h3 {
   .players__item_title {
     color: #c1c1c1;
     font-size: 36px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin-right: calc(50%);
     margin-top: 0px;
     margin-bottom: 32px;
@@ -1512,7 +1512,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -1525,7 +1525,7 @@ h1, h2, h3 {
     display: block;
     float: left;
     font-size: 18px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     margin: 5px 11px 0px 0px; 
     line-height: 28px;
     width: 21px;
@@ -1533,7 +1533,7 @@ h1, h2, h3 {
 }
   
   .players__item_text {
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 20px;
     margin-top: 0px;  
     margin-bottom: 0px;
@@ -1594,7 +1594,7 @@ h1, h2, h3 {
     color: white;
     display: block;
     font-size: 24px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-weight: bold;
     left: calc(50% - 12px);
     line-height: 38px;
@@ -1624,7 +1624,7 @@ h1, h2, h3 {
   .principles__item_info {
     position: relative;
     width: 50%;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
   }
   
  
@@ -1676,7 +1676,7 @@ h1, h2, h3 {
   
   .footer__download_info-title {
     color: #ffffff;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 80px;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -1685,7 +1685,7 @@ h1, h2, h3 {
   
   .footer__download_info-subtitle {
     color: #a496ca;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-size: 30px;
     margin-bottom: 0px;
     margin-top: -5px;
