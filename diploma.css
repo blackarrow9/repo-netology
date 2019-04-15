@@ -129,7 +129,7 @@ h1, h2, h3 {
   
 
 .button_text {
-  font-family: 'Open Sans, sans-serif';
+  font-family: 'Open Sans', sans-serif;
   text-align: left;
   color: #ffffff;
   margin-top: 8px;
@@ -548,7 +548,7 @@ h1, h2, h3 {
   }
 
   .button_text {
-    font-family: 'Open Sans, sans-serif';
+    font-family: 'Open Sans', sans-serif;
     text-align: left;
     color: #ffffff;
     margin-top: 24px;
@@ -958,7 +958,7 @@ h1, h2, h3 {
   }
 
   .button_text {
-    font-family: 'Open Sans, sans-serif';
+    font-family: 'Open Sans', sans-serif;
     text-align: left;
     color: #ffffff;
     margin-top: 24px;
@@ -1370,7 +1370,7 @@ h1, h2, h3 {
   }
 
   .button_text {
-    font-family: 'Open Sans, sans-serif';
+    font-family: 'Open Sans', sans-serif;
     text-align: left;
     color: #ffffff;
     margin-top: 24px;
