@@ -2,7 +2,9 @@
 
 html, body {
   overflow-x: hidden;
+  margin: 0;
 }
+
 * { box-sizing: border-box; }
 
 .caps {
@@ -85,10 +87,10 @@ h1, h2, h3 {
   
 .title_right_header  {
   color: #ffffff;
+  display: inline-block;
   text-align: left;
-  margin-left: 63px;
+  margin-left: 13%;
   margin-top: 11px;
-  margin-right: -16px;
 }  
 
 .btns {
@@ -127,7 +129,7 @@ h1, h2, h3 {
   
 
 .button_text {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans, sans-serif';
   text-align: left;
   color: #ffffff;
   margin-top: 8px;
@@ -509,8 +511,9 @@ h1, h2, h3 {
   
   .title_right_header  {
     color: #ffffff;
+    display: inline-block;
     text-align: left;
-    margin-left: 192px;
+    margin-left: 16%;
   }  
   
   .btns {
@@ -545,7 +548,7 @@ h1, h2, h3 {
   }
 
   .button_text {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans, sans-serif';
     text-align: left;
     color: #ffffff;
     margin-top: 24px;
@@ -910,14 +913,15 @@ h1, h2, h3 {
     color: #ffffff;
     margin-top: 270px;
     margin-left: 205px;
-    margin-right: 190px;
     text-align: left;
     font-family: Open Sans;
   }  
   
   .title_right_header  {
     color: #ffffff;
-    text-align: right;
+    display: inline-block;
+    text-align: left;
+    margin-left: 23%;
   }  
   
   .btns {
@@ -954,7 +958,7 @@ h1, h2, h3 {
   }
 
   .button_text {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans, sans-serif';
     text-align: left;
     color: #ffffff;
     margin-top: 24px;
@@ -1328,7 +1332,9 @@ h1, h2, h3 {
   
   .title_right_header  {
     color: #ffffff;
-    text-align: right;
+    display: inline-block;
+    text-align: left;
+    margin-left: 23%;
   }  
   
   .btns {
@@ -1364,7 +1370,7 @@ h1, h2, h3 {
   }
 
   .button_text {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans, sans-serif';
     text-align: left;
     color: #ffffff;
     margin-top: 24px;
